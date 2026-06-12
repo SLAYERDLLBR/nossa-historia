@@ -6,7 +6,7 @@ import { VitePWA } from 'vite-plugin-pwa'
 export default defineConfig(({ mode }) => {
   // Em produção no GitHub Pages, usa o nome do repo como base path
   // Defina VITE_BASE_PATH no workflow ou use '/' para deploy raiz
-  const base = process.env.VITE_BASE_PATH || '/nossa-trilha-sonora/';
+  const base = process.env.VITE_BASE_PATH || '/nossa-historia/';
 
   return {
     base,
