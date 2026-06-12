@@ -5,7 +5,7 @@
 export const CONFIG = {
   partnerName: "",
   startDate: "",
-  siteUrl: "", // URL pública do site hospedado (ex: https://meu-site.vercel.app)
+  siteUrl: "https://slayerdllbr.github.io/nossa-historia/", // URL pública do site hospedado
 
   music: {
     title: "",
